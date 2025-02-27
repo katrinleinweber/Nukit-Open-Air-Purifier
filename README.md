@@ -1,7 +1,6 @@
 # About the Nukit Open Air Purifier
 
-Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable. 
-
+Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable.
 
 ![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
 
@@ -11,7 +10,7 @@ Nukit Open Air Purifiers are Open Hardware devices for improving indoor air qual
 * This is only an enclosure. In order to build a complete, functioning air purifier, you will need [2"x20"x20" MERV 13 furnace filters](https://www.amazon.com/Nordic-Pure-20x20x2M13-3-20x20x2-Pleated/dp/B005ESOXII), [140mm fans](https://www.amazon.com/gp/product/B07HCKWF2X), a [5.5mm barrel jack to 4-Pin PWM converter](https://www.amazon.com/DGZZI-5-5x2-1mm-Female-Supply-Adapter/dp/B085S3Q7VH), [fan grills](https://www.amazon.com/gp/product/B01BW21DXC), and a [12v power supply](https://www.amazon.com/gp/product/B07XMC6TF6) (suggested items linked).
 * Regular yellow wood glue is sufficient. Polyurethane glue is somewhat stronger but significantly messier. Be sure to wipe up any excess glue with a damp sponge as you work, as hardened excess may prevent the filters from sliding in easily or the fans from sitting flush with the enclosure. If you miss a spot, it can be sanded flat or peeled off with a chisel.
 * We suggest building the air purifiers on a glass tabletop for easy cleanup and to keep everything flat and square. Free-standing pieces can be held between two large food cans while the glue dries to keep them sufficiently vertical. Clothespins and thin rubber bands can be very helpful. The best results come from gluing one or two pieces to the base piece, allowing those to dry overnight, and then building the rest of the enclosure off of that firm structure.
-* Once the glue is completely dry, a few light coats of sealant will ensure a service life of many years and prevent any issues with mold or mildew (although this should be checked with a flashlight when the filters are changed and the enclosure disposed of in the unlikely event of any growth- most laserply is treated). 
+* Once the glue is completely dry, a few light coats of sealant will ensure a service life of many years and prevent any issues with mold or mildew (although this should be checked with a flashlight when the filters are changed and the enclosure disposed of in the unlikely event of any growth- most laserply is treated).
 * Every effort should be made to use low VOC materials and finishes and allow them to fully cure before deploying the air purifier.
 * Nukit Open Air Purifiers all come without a wiring port as different users prefer them in different locations. They are easy to add with [Inkscape](https://inkscape.org/), [QCAD](https://qcad.org/) or any vector editing or CAD software that can handle DXF files. Or just drill a hole where you like.
 * To avoid confusion, all parts required to build a single air purifier unit are contained in a single DXF file. It is not optimized for cutting on any one machine; you will need to rearrange and remove some parts to fit your laser cutter and available material. [LightBurn](https://lightburnsoftware.com/) is the best software for this and is highly recommended. The time it saves quickly covers the cost.
@@ -23,11 +22,11 @@ The responsibility to safely deploy and use Nukit Open Air Purifiers lies entire
 
 ### Why would I build a DIY air purifier?
 
-Commercial stand-alone air purifiers follow the razor blade & inkjet printer business model. The profit is made by selling poorly built but attractively designed machines with motors that burn out within two years, cannot be serviced and require expensive proprietary filters that only fit that specific air purifier model. 
+Commercial stand-alone air purifiers follow the razor blade & inkjet printer business model. The profit is made by selling poorly built but attractively designed machines with motors that burn out within two years, cannot be serviced and require expensive proprietary filters that only fit that specific air purifier model.
 
 There is little money to be made, and none of it recurring, in building durable, repairable air purifiers that accept non-proprietary, standard HVAC filters, so the next best thing is to offer Open Source Hardware options.
 
-Along with reducing e-waste, DIY PC Fan Air Purifiers usually have a substantially lower cost of ownership per M<sup>3</sup> CADR when in long-term operation.
+Along with reducing e-waste, DIY PC Fan Air Purifiers usually have a substantially lower cost of ownership per m³ CADR when in long-term operation.
 
 ### But aren't commercial air purifiers better?
 
