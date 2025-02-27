@@ -2,7 +2,6 @@
 
 Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable. 
 
-There is now a parametric web app to design and build your preferred Nukit Open Air Purifier at [FilterBoxBuilder.com](https://www.filterboxbuilder.com/)
 
 ![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
 
@@ -38,9 +37,10 @@ Often not- depending on your use case. The use of centrifugal fans allows for mo
 
 As an industrial process, thin laser cut material is ideal when you need to make 5-500 of something (at which point you look at sheet metal or injection molded plastic). Hand-operated power tools are well suited to making one or two boxes like this but the time and labor required are substantial. Custom speaker enclosure builders can give you a quote for comparison as the specifications are very similar. Since most locations will require four or more air purifiers for full coverage, laser cutting is a very cost-effective option. The cost drops substantially as quantities go up, so group buys are an excellent idea.
 
-### Will you make a version with...
+### Will you make a version with…
 
-Hang on for a few weeks; we'll have an easy-to-use web app that will let you specify what sort of layout you want and then generate the files for you.
+The web app [FilterBoxBuilder.com](https://www.filterboxbuilder.com/) helps you generate custom design files.
+You can design your preferred Nukit Open Air Purifier based on a few layout details and parameters.
 
 ### I have ME/CFS, POTS, Long-COVID. Will I be able to do this?
 
