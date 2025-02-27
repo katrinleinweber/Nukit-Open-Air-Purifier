@@ -50,21 +50,6 @@ We think so, or let us know and we'll make changes so you can. Clear a work area
 
 Absolutely not, a ton of people did a massive amount of work on PC Fan Filter Boxes to get to this point, and laser-cut boxes have been around as long as laser cutters. We just posted a few handy Open Source designs people can easily have made. For some absolutely beautiful prior art (and decorative inspiration), check out [@Krytes42](https://twitter.com/Krytes42/status/1707808953911095305) on Twitter. 
 
-## License
+## License: [GPL-3](https://choosealicense.com/licenses/gpl-3.0/)
 
-All Nukit Open Air Purifiers are released under GPL-3. 
-https://www.gnu.org/licenses/gpl-3.0.en.html
-
-TLDR;
-(For our purposes, “software” refers to the digital files used to make Nukit Open Air Purifiers)
-
-1. Anyone can copy, modify and distribute this software.
-2. You have to include the license and copyright notice with each and every distribution.
-3. You can use this software privately.
-4. You can use this software for commercial purposes.
-5. If you dare build your business solely from this code, you risk open-sourcing the whole code base.
-6. If you modify it, you have to indicate changes made to the code.
-7. Any modifications of this code base MUST be distributed with the same license, GPLv3.
-8. This software is provided without warranty.
-9. The software author or license can not be held liable for any damages inflicted by the software.
-
+Applies to _all_ [Nukit Open Air Purifiers](https://github.com/opennukit/Nukit-Open-Air-Purifier).
