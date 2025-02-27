@@ -48,7 +48,7 @@ We think so, or let us know and we'll make changes so you can. Clear a work area
 
 ### Did you invent this?
 
-Absolutely not, a ton of people did a massive amount of work on PC Fan Filter Boxes to get to this point, and laser-cut boxes have been around as long as laser cutters. We just posted a few handy Open Source designs people can easily have made. For some absolutely beautiful prior art (and decorative inspiration), check out [@Krytes42](https://twitter.com/Krytes42/status/1707808953911095305) on Twitter. 
+Absolutely not, a ton of people did a massive amount of work on PC Fan Filter Boxes to get to this point, and laser-cut boxes have been around as long as laser cutters. We just posted a few handy Open Source designs people can easily have made. For some absolutely beautiful prior art (and decorative inspiration), check out [@krytes42.bsky.social](https://bsky.app/profile/krytes42.bsky.social/search?q=filter).
 
 ## License: [GPL-3](https://choosealicense.com/licenses/gpl-3.0/)
 
